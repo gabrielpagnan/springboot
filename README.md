@@ -173,16 +173,13 @@ Faça um fork do projeto
 Crie uma branch para sua modificação
 
 bash
-Copiar código
 git checkout -b feature/nova-funcionalidade
 Faça o commit das mudanças
 
 bash
-Copiar código
 git commit -m "Adiciona nova funcionalidade"
 Envie para o repositório remoto
 
 bash
-Copiar código
 git push origin feature/nova-funcionalidade
 Abra um Pull Request
